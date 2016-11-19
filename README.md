@@ -1,8 +1,11 @@
 # UI-Design-Product-Card
 
 This is source code of Youtube Channel Video Tutorial.
+
 Channel Name: CodeFrog
+
 Video Title: Product Card UI Design - HTML CSS Tutorial
+
 Video Link: https://www.youtube.com/watch?v=jYAmKNOJ4Ck
 
 Like us on facebook
