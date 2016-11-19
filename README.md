@@ -1,4 +1,4 @@
-# UI-Design-Product-Card
+# UI Design - Product Card Using HTML CSS
 
 This is source code of Youtube Channel Video Tutorial.
 
